@@ -9,5 +9,13 @@
         "src": "https://sol.sfc.keio.ac.jp/dist/images/apple-touch-icon-585e5d997d.png",
         "sizes": "180x180"
       }
+    ],
+    "shortcuts": [
+      {
+        "name": "エネルギー政策分析",
+        "short_name": "エネルギー政策分析",
+        "url": "/courses/7842",
+        "icons": [{"src": "https://sol.sfc.keio.ac.jp/dist/images/apple-touch-icon-585e5d997d.png", "sizes": "180x180"}]
+      },
     ]
-  };
+}
