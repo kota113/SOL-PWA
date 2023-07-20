@@ -1,0 +1,13 @@
+{
+    "name": "SOL",
+    "short_name": "SOL",
+    "start_url": "https://sol.sfc.keio.ac.jp/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "icons": [
+      {
+        "src": "https://sol.sfc.keio.ac.jp/dist/images/apple-touch-icon-585e5d997d.png",
+        "sizes": "180x180"
+      }
+    ]
+  };
